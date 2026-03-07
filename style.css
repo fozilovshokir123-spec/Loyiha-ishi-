@@ -3,9 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+.orabturuvchi{
+    background-image: linear-gradient(#EFD7EF,#F5F9FC,#F8EAE1,#EAF8F9);
+    height: 600px   ;
+}
 .rasim{
     margin: 70px;
 }
+
 .p{
     color: rgb(139, 16, 139);
     justify-self: start;
@@ -22,4 +27,39 @@
   justify-content: center;
   gap: 40px;      
   margin-top: -20px;
+}
+.width:hover{
+    width: 150px;
+    height: 30px;
+    transform: scale(1.1);
+    box-shadow: 1px 1px 40px #6d3cc7 ;
+    background-color: #F83D8E;
+    border-radius: 15px;
+   
+}
+.width{
+     width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(243, 74, 74);
+     margin-left: 70px;
+}
+.font{
+    font-family: "Unbounded", sans-serif;
+}
+.rang{
+    color: #F83D8E;
+}
+.musqaymoq{
+    width:200px;
+    height: 32px;
+    border-radius: 10px;
+    background-color: #683292   ;
+}
+.milk{
+    margin-left: 60px;
+}
+.rasim-musqaymoq{
+    height: 30px;
+    width: 3px;
 }
