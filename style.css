@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.rasim{
+    margin: 70px;
+}
+.p{
+    color: rgb(139, 16, 139);
+    justify-self: start;
+    margin-left: 130px;
+    margin-top: -120px;
+}
+.span{
+    color: rgb(39, 39, 146);
+    justify-self: start;
+    margin-left: 0px;
+}
+.home{
+  display: flex;
+  justify-content: center;
+  gap: 40px;      
+  margin-top: -20px;
+}
