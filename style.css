@@ -104,3 +104,22 @@
     margin-left: 900px;
     margin-top: -250px;
 }
+.continer{
+    display: flex;
+    justify-content: space-around;
+}
+.wrapper{
+    background-color: white;
+    width: 255px;
+    height: 453px;
+    border-radius: 20px;
+    margin-top: -460px;
+}
+.img{
+    margin-top: 30px;
+   margin-left: 20px;
+   background-color: wheat;
+   width: 233px;
+   height: 244px    ;
+   border-radius: 15px;
+}
