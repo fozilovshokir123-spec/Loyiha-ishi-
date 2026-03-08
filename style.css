@@ -107,6 +107,7 @@
 .continer{
     display: flex;
     justify-content: space-around;
+   
 }
 .wrapper{
     background-color: white;
@@ -157,4 +158,11 @@
 .lll{
       width: 260px;
     height: 60px;
+}
+.ranggggg{
+     background-image: linear-gradient(#EFD7EF,#F5F9FC,#F8EAE1,#EAF8F9);
+     height: 600px;
+}
+.fonts{
+      font-family: "Raleway", sans-serif;
 }
