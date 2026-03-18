@@ -5,18 +5,19 @@
 }
 .orabturuvchi {
   background-image: linear-gradient(#efd7ef, #f5f9fc, #f8eae1, #eaf8f9);
-  height: 600px;
+  height: 700px;
+  padding: 20px;
 }
 .rasim {
   margin: 70px;
   margin-left: 90px;
 }
 
-.p {
+.p{
   color: rgb(139, 16, 139);
   justify-self: start;
   margin-left: 150px;
-  margin-top: -120px;
+  margin-top: -150px;
 }
 .span {
   color: rgb(39, 39, 146);
