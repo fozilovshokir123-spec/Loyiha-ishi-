@@ -108,6 +108,9 @@ ul {
 .owl-dots {
   display: none;
 }
+.xxl{
+  font-size: 60px;
+}
 .button-nav {
   width: 148px;
   height: 48px;
@@ -313,7 +316,7 @@ ul {
 
   scale: 2;
   animation: noneanimate 2s 5s linear forwards;
-  display: none;
+  
 }
 
 @keyframes noneanimate {
@@ -490,11 +493,4 @@ ul {
     background-color: #BB2339;
     color: white;
     padding: 10px;
-  }
-  input{
-    width: 100px;
-    height: 52px;
-    border-radius: 15px;
-    background-color: #BB2339;
-    color: white;
   }
